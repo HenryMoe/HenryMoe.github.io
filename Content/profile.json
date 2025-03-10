@@ -24,7 +24,7 @@
 },
 "Project1": {
     "Title": "AC Filter Design Project",
-    "Desc": "As part of the Circuits II class, I designed and built a circuit to filter an AC signal.",
+    "Desc": "As part of the Circuits II class, I designed and built a circuit to filter an AC signal. The incoming signal contained three frequecies. The first portion of my circuit was a three-stage bandpass filter. Signal was then sent to a peak detector, then a comparator. These two elements made possible the final stage, which was an LED that indicated when the passband frequency was present in the singal."
     "GitHubRepo": "https://github.com",
     "MainImage": "Picture2.png",
     "DetailImages": ["Picture1.png","Picture3.png","Picture4.png","picture5.png"]
