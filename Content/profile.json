@@ -26,8 +26,8 @@
     "Title": "AC Filter Design Project",
     "Desc": "As part of the Circuits II class, I designed and built a circuit to filter an AC signal.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "MainImage": "Picture2.png",
+    "DetailImages": ["Picture1.png","Picture3.png","Picture4.png","picture5.png"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
